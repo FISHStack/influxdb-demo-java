@@ -1,0 +1,6 @@
+spring:
+  influx:
+    url: *
+    password: admin
+    user: 123
+    database: log_management
